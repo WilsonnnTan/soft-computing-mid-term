@@ -214,3 +214,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Another GitIgnore
+# Dataset from ai_train
+./ai_train/dataset
